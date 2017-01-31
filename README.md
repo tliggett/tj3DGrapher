@@ -28,4 +28,3 @@ There are other inputs that can be entered in the input bar (all x and y values 
 
 And that's all she wrote! Enjoy my calculator, hopefully it will enlighten you on the beauty of Multivariable Calculus!
   
-# <img src="https://cdn.rawgit.com/hackclub/meta/fc4c0d220426eb53a176e656ae7700d9dcd0b2c5/logos/hack_club_red_text.svg" width="450">
