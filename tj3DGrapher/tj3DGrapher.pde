@@ -96,7 +96,9 @@ void draw() {
   text("x", 0,0,0);
   popMatrix();
   
+  if(!menu.view){
   box(80);
+  }
   function.display();
   menu.display();
   
