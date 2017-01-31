@@ -13,5 +13,19 @@ The lower the detail vector is, the higher the detail will be in the function.
 Using + and _ (Underscore), the using can zoom in and out of the function.
 
 There are other inputs that can be entered in the input bar (all x and y values are floats):
-1) help - opens the help menu
-2) view 
+
+  1) help - opens the help menu
+
+  2) view - displays function without outer box
+  
+  3) value x y - finds value of function at f(x,y)
+  
+  4) max x1 x2 y1 y2 - finds the maximum value of the function on the interval [x1, x2] x [y1,y2]
+  
+  5) min x1 x2 y1 y2 - finds the minimum value of the function on the interval [x1, x2] x [y1,y2]
+  
+  6) integral x1 x2 y1 y2 - finds the double integral (volume underneath the curve) of the function on the interval [x1, x2] x [y1,y2]
+
+And that's all she wrote! Enjoy my calculator, hopefully it will enlighten you on the beauty of Multivariable Calculus!
+  
+  
